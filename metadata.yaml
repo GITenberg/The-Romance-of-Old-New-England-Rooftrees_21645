@@ -1,0 +1,28 @@
+_repo: The-Romance-of-Old-New-England-Rooftrees_21645
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crawford, Mary Caroline
+    birthdate: 1874
+    deathdate: 1932
+    gutenberg_agent_id: '24829'
+    url: http://www.gutenberg.org/2009/agents/24829
+description: ''
+gutenberg_issued: '2007-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21645'
+  lccn: '02023427'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historic buildings -- New England'
+- !lcc 'F001'
+- !lcsh 'New England -- Biography'
+title: The Romance of Old New England Rooftrees
+url: http://www.gutenberg.org/ebooks/21645
