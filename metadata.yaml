@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '24829'
     url: http://www.gutenberg.org/2009/agents/24829
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21645#The-Romance-of-Old-New-England-Rooftrees
 gutenberg_issued: '2007-05-30'
 gutenberg_type: Text
 identifiers:
